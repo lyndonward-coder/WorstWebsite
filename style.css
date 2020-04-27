@@ -1,0 +1,26 @@
+body{
+    background-color: palevioletred;
+}
+h1 {
+    background-color: green;
+  }
+  
+  div {
+    background-color: lightblue;
+  }
+  
+  p {
+    background-color: yellow;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    text-align: center;
+    overflow: scroll;
+  }
+  img {
+    border-radius: 75%;
+    border: 1px solid blue;
+    background-color: yellow;
+    float: left
+  }

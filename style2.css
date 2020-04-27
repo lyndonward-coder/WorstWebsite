@@ -1,0 +1,26 @@
+body{
+    background-color: red;
+}
+h1 {
+    background-color: teal;
+  }
+  
+  div {
+    background-color: burlywood;
+  }
+  
+  p {
+    background-color: khaki;
+    width: 300px;
+    height: 300px;
+    border: 15px solid green;
+    text-align: center;
+    overflow: scroll;
+    
+  }
+  img {
+    border-radius: 40%;
+    padding: 50px;
+    margin: 20px;
+    float: left;
+  }
